@@ -1,0 +1,11 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+}
+h1, h2 {
+    color: #0056d2;
+}
+.navbar, footer {
+    background-color: #0056d2;
+    color: white;
+}
